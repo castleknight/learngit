@@ -11,3 +11,5 @@ Creating a new branch is quick and simple.
 Manage branch
 
 Git is a free software
+
+Git is a new free software
