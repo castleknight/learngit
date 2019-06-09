@@ -7,3 +7,5 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 >>>>>>> featrue1
 Creating a new branch is quick and simple.
+
+Manage branch
